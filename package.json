@@ -5,6 +5,7 @@
     "type": "git",
     "url": "git+https://github.com/xieyuheng/learner.git"
   },
+  "license": "GPL-3.0-or-later",
   "type": "module",
   "main": "./lib/index.js",
   "files": [
@@ -22,6 +23,5 @@
     "prettier": "^3.5.3",
     "prettier-plugin-organize-imports": "^4.1.0",
     "typescript": "^5.8.3"
-  },
-  "license": "GPL-3.0-or-later"
+  }
 }
