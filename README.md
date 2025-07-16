@@ -5,11 +5,9 @@ A machine learning library learned from "The Little Learner".
 ## Development
 
 ```sh
-npm install          # Install dependencies
-npm run build        # Compile `src/` to `lib/`
-npm run build:watch  # Compile and watch for file changes
-npm run test         # Run test
-npm run format       # Format code
+npm install
+npm run build
+npm run test
 ```
 
 ## Contributions
