@@ -1,9 +1,9 @@
 {
-  "name": "@xieyuheng/learner",
+  "name": "@xieyuheng/learner.js",
   "version": "0.3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xieyuheng/learner.git"
+    "url": "git+https://github.com/xieyuheng/learner.js.git"
   },
   "license": "GPL-3.0-or-later",
   "type": "module",
